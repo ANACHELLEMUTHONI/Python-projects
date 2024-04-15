@@ -7,7 +7,7 @@ How It Works
 - Shifts the data distribution to be centered on 0
 - Sets the average (mean) value to 0
 - Rescales data to small range (e.g. -3 to 3)
-Benefits
+Benefits of mean normalization
 
 Puts all features on a common scale
 - Can improve performance of ML algorithms
